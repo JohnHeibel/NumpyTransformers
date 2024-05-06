@@ -1,4 +1,5 @@
-![[Attachments/Pasted image 20240412120937.png]]
+
+![](Attachments/Pasted%20image%2020240412120937.png)
 # Architecture
 - Tokenizer
 	- Convert text into tokens
@@ -142,10 +143,7 @@
 ## Encoder
 - ![[Attachments/Pasted image 20240415134109.png]]
 - We now have all of the knowledge we need to make the encoder block
-- For the encoder block, we need to implement out attention blocks and our feed forward networks
-
-
-
+- 
 
 
 
